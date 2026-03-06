@@ -1,4 +1,4 @@
-# CLI-password-manager-Bastion
+# Bastion: CLI password manager
 
 ## Overview
 Bastion is a terminal-based password manager written in Python that runs entirely from the command line and stores all password entries in a single encrypted binary file on your local machine. Access is gated by a master password, which is used both to verify your identity and to derive the encryption key that protects your data. No third-party vaults, no internet connection required.
